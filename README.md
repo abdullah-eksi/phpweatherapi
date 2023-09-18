@@ -22,6 +22,8 @@ Api kullanmak için aşağıdaki adımları izleyin:
 
 2. `index.php` dosyasını bir web sunucusunda çalıştırın.
 
-3. daha sonra isterseniz tasarımı ozelleştirebilrsiniz gelen json degerlerini işleyip daha sık bir tasarım çıkartabilirsiniz 
+3.gerekli api key değişkenini aldınız api key ile değiştirin 
+
+4. daha sonra isterseniz tasarımı ozelleştirebilrsiniz gelen json degerlerini işleyip daha sık bir tasarım çıkartabilirsiniz 
 
    
